@@ -648,4 +648,7 @@ text-decoration: underline;
   .nav {
     display: none;
   }
+  input, textarea, select {
+    font-size: 16px;
+  }
 }
